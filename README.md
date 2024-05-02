@@ -1,6 +1,10 @@
 # Overview
 
-The Example API is a Node.js web application built with Express.js, designed to provide authentication, user management, and real-time Bitcoin price updates. It serves as a versatile backend system that can be integrated into larger financial tracking or user management platforms. The API features endpoints for user signup, Bitcoin price updates, and fetching current Bitcoin data.
+Example-API is an example of how to build a clean coded API that is all about making things simpler and safer when you're using websites that handle your personal details and your money. It focuses on two key areas:
+
+Keeping User Logins Safe: It ensures that when someone logs into a website, their identity is verified securely. This prevents unauthorized access and protects personal information.
+
+Tracking Bitcoin Prices: It keeps an eye on how much Bitcoin is worth, updating this information in real time. This is really handy for anyone who needs to know the latest Bitcoin prices for their financial decisions.
 
 Features
 ```
